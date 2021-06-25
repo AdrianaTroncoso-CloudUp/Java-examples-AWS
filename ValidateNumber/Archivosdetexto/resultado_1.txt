@@ -1,0 +1,446 @@
+1° Número '+525551062511': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525551062511"}'
+ { "PhoneNumber": "+525551062511", "IsoCountryCode": "MX"}
+
+2° Número '+522491254733': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+522491254733"}'
+ { "PhoneNumber": "+522491254733", "IsoCountryCode": "MX"}
+
+3° Número '+528713461485': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+528713461485"}'
+ { "PhoneNumber": "+528713461485", "IsoCountryCode": "MX"}
+
+4° Número '+525611652094': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525611652094"}'
+ { "PhoneNumber": "+525611652094", "IsoCountryCode": "MX"}
+
+5° Número '+525622134005': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525622134005"}'
+ { "PhoneNumber": "+525622134005", "IsoCountryCode": "MX"}
+
+6° Número '+525551449244': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525551449244"}'
+ { "PhoneNumber": "+525551449244", "IsoCountryCode": "MX"}
+
+7° Número '+524611234013': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+524611234013"}'
+ { "PhoneNumber": "+524611234013", "IsoCountryCode": "MX"}
+
+8° Número '+523319911919': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+523319911919"}'
+ { "PhoneNumber": "+523319911919", "IsoCountryCode": "MX"}
+
+9° Número '+525510033631': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525510033631"}'
+ { "PhoneNumber": "+525510033631", "IsoCountryCode": "MX"}
+
+10° Número '+525525617287': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525525617287"}'
+ { "PhoneNumber": "+525525617287", "IsoCountryCode": "MX"}
+
+11° Número '+526561998535': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+526561998535"}'
+ { "PhoneNumber": "+526561998535", "IsoCountryCode": "MX"}
+
+12° Número '+523123092328': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+523123092328"}'
+ { "PhoneNumber": "+523123092328", "IsoCountryCode": "MX"}
+
+13° Número '+525552526087': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525552526087"}'
+ { "PhoneNumber": "+525552526087", "IsoCountryCode": "MX"}
+
+14° Número '+525576969922': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525576969922"}'
+ { "PhoneNumber": "+525576969922", "IsoCountryCode": "MX"}
+
+15° Número '+527771209274': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+527771209274"}'
+ { "PhoneNumber": "+527771209274", "IsoCountryCode": "MX"}
+
+16° Número '+525523522391': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525523522391"}'
+ { "PhoneNumber": "+525523522391", "IsoCountryCode": "MX"}
+
+17° Número '+525552527233': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525552527233"}'
+ { "PhoneNumber": "+525552527233", "IsoCountryCode": "MX"}
+
+18° Número '+524425614450': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+524425614450"}'
+ { "PhoneNumber": "+524425614450", "IsoCountryCode": "MX"}
+
+19° Número '+528117617154': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+528117617154"}'
+ { "PhoneNumber": "+528117617154", "IsoCountryCode": "MX"}
+
+20° Número '+525581318553': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525581318553"}'
+ { "PhoneNumber": "+525581318553", "IsoCountryCode": "MX"}
+
+21° Número '+523310652873': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+523310652873"}'
+ { "PhoneNumber": "+523310652873", "IsoCountryCode": "MX"}
+
+22° Número '+525611931585': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525611931585"}'
+ { "PhoneNumber": "+525611931585", "IsoCountryCode": "MX"}
+
+23° Número '+523311772589': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+523311772589"}'
+ { "PhoneNumber": "+523311772589", "IsoCountryCode": "MX"}
+
+24° Número '+528993084032': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+528993084032"}'
+ { "PhoneNumber": "+528993084032", "IsoCountryCode": "MX"}
+
+25° Número '+528180641367': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+528180641367"}'
+ { "PhoneNumber": "+528180641367", "IsoCountryCode": "MX"}
+
+26° Número '+527226060482': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+527226060482"}'
+ { "PhoneNumber": "+527226060482", "IsoCountryCode": "MX"}
+
+27° Número '+525569696898': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525569696898"}'
+ { "PhoneNumber": "+525569696898", "IsoCountryCode": "MX"}
+
+28° Número '+524427500333': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+524427500333"}'
+ { "PhoneNumber": "+524427500333", "IsoCountryCode": "MX"}
+
+29° Número '+527293218594': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+527293218594"}'
+ { "PhoneNumber": "+527293218594", "IsoCountryCode": "MX"}
+
+30° Número '+528114133566': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+528114133566"}'
+ { "PhoneNumber": "+528114133566", "IsoCountryCode": "MX"}
+
+31° Número '+524424119149': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+524424119149"}'
+ { "PhoneNumber": "+524424119149", "IsoCountryCode": "MX"}
+
+32° Número '+528671186852': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+528671186852"}'
+ { "PhoneNumber": "+528671186852", "IsoCountryCode": "MX"}
+
+33° Número '+527714213839': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+527714213839"}'
+ { "PhoneNumber": "+527714213839", "IsoCountryCode": "MX"}
+
+34° Número '+525555002000': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525555002000"}'
+ { "PhoneNumber": "+525555002000", "IsoCountryCode": "MX"}
+
+35° Número '+528119241224': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+528119241224"}'
+ { "PhoneNumber": "+528119241224", "IsoCountryCode": "MX"}
+
+36° Número '+525567490207': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525567490207"}'
+ { "PhoneNumber": "+525567490207", "IsoCountryCode": "MX"}
+
+37° Número '+525529096092': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525529096092"}'
+ { "PhoneNumber": "+525529096092", "IsoCountryCode": "MX"}
+
+38° Número '+525533589247': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525533589247"}'
+ { "PhoneNumber": "+525533589247", "IsoCountryCode": "MX"}
+
+39° Número '+526644091900': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+526644091900"}'
+ { "PhoneNumber": "+526644091900", "IsoCountryCode": "MX"}
+
+40° Número '+528116168465': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+528116168465"}'
+ { "PhoneNumber": "+528116168465", "IsoCountryCode": "MX"}
+
+41° Número '+523314498569': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+523314498569"}'
+ { "PhoneNumber": "+523314498569", "IsoCountryCode": "MX"}
+
+42° Número '+523331905536': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+523331905536"}'
+ { "PhoneNumber": "+523331905536", "IsoCountryCode": "MX"}
+
+43° Número '+527229077301': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+527229077301"}'
+ { "PhoneNumber": "+527229077301", "IsoCountryCode": "MX"}
+
+44° Número '+525555096045': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525555096045"}'
+ { "PhoneNumber": "+525555096045", "IsoCountryCode": "MX"}
+
+45° Número '+527821432509': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+527821432509"}'
+ { "PhoneNumber": "+527821432509", "IsoCountryCode": "MX"}
+
+46° Número '+525541948820': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525541948820"}'
+ { "PhoneNumber": "+525541948820", "IsoCountryCode": "MX"}
+
+47° Número '+525563715141': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525563715141"}'
+ { "PhoneNumber": "+525563715141", "IsoCountryCode": "MX"}
+
+48° Número '+526643768665': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+526643768665"}'
+ { "PhoneNumber": "+526643768665", "IsoCountryCode": "MX"}
+
+49° Número '+528118065815': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+528118065815"}'
+ { "PhoneNumber": "+528118065815", "IsoCountryCode": "MX"}
+
+50° Número '+525546138038': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525546138038"}'
+ { "PhoneNumber": "+525546138038", "IsoCountryCode": "MX"}
+
+51° Número '+525513967014': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525513967014"}'
+ { "PhoneNumber": "+525513967014", "IsoCountryCode": "MX"}
+
+52° Número '+527229801384': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+527229801384"}'
+ { "PhoneNumber": "+527229801384", "IsoCountryCode": "MX"}
+
+53° Número '+529999686113': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+529999686113"}'
+ { "PhoneNumber": "+529999686113", "IsoCountryCode": "MX"}
+
+54° Número '+528120736193': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+528120736193"}'
+ { "PhoneNumber": "+528120736193", "IsoCountryCode": "MX"}
+
+55° Número '+523316150147': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+523316150147"}'
+ { "PhoneNumber": "+523316150147", "IsoCountryCode": "MX"}
+
+56° Número '+529231005358': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+529231005358"}'
+ { "PhoneNumber": "+529231005358", "IsoCountryCode": "MX"}
+
+57° Número '+527221143185': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+527221143185"}'
+ { "PhoneNumber": "+527221143185", "IsoCountryCode": "MX"}
+
+58° Número '+525540126348': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525540126348"}'
+ { "PhoneNumber": "+525540126348", "IsoCountryCode": "MX"}
+
+59° Número '+525567560414': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525567560414"}'
+ { "PhoneNumber": "+525567560414", "IsoCountryCode": "MX"}
+
+60° Número '+528115666222': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+528115666222"}'
+ { "PhoneNumber": "+528115666222", "IsoCountryCode": "MX"}
+
+61° Número '+525574226564': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525574226564"}'
+ { "PhoneNumber": "+525574226564", "IsoCountryCode": "MX"}
+
+62° Número '+525513317300': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525513317300"}'
+ { "PhoneNumber": "+525513317300", "IsoCountryCode": "MX"}
+
+63° Número '+525549878346': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525549878346"}'
+ { "PhoneNumber": "+525549878346", "IsoCountryCode": "MX"}
+
+64° Número '+525536494959': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525536494959"}'
+ { "PhoneNumber": "+525536494959", "IsoCountryCode": "MX"}
+
+65° Número '+525583930405': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525583930405"}'
+ { "PhoneNumber": "+525583930405", "IsoCountryCode": "MX"}
+
+66° Número '+527772188994': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+527772188994"}'
+ { "PhoneNumber": "+527772188994", "IsoCountryCode": "MX"}
+
+67° Número '+526671457250': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+526671457250"}'
+ { "PhoneNumber": "+526671457250", "IsoCountryCode": "MX"}
+
+68° Número '+528117992885': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+528117992885"}'
+ { "PhoneNumber": "+528117992885", "IsoCountryCode": "MX"}
+
+69° Número '+525590155937': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525590155937"}'
+ { "PhoneNumber": "+525590155937", "IsoCountryCode": "MX"}
+
+70° Número '+528331014462': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+528331014462"}'
+ { "PhoneNumber": "+528331014462", "IsoCountryCode": "MX"}
+
+71° Número '+527711172546': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+527711172546"}'
+ { "PhoneNumber": "+527711172546", "IsoCountryCode": "MX"}
+
+72° Número '+523331673221': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+523331673221"}'
+ { "PhoneNumber": "+523331673221", "IsoCountryCode": "MX"}
+
+73° Número '+523337203519': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+523337203519"}'
+ { "PhoneNumber": "+523337203519", "IsoCountryCode": "MX"}
+
+74° Número '+527223536655': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+527223536655"}'
+ { "PhoneNumber": "+527223536655", "IsoCountryCode": "MX"}
+
+75° Número '+525513908021': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525513908021"}'
+ { "PhoneNumber": "+525513908021", "IsoCountryCode": "MX"}
+
+76° Número '+525523769374': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525523769374"}'
+ { "PhoneNumber": "+525523769374", "IsoCountryCode": "MX"}
+
+77° Número '+525540542466': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525540542466"}'
+ { "PhoneNumber": "+525540542466", "IsoCountryCode": "MX"}
+
+78° Número '+528681409780': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+528681409780"}'
+ { "PhoneNumber": "+528681409780", "IsoCountryCode": "MX"}
+
+79° Número '+525535380122': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525535380122"}'
+ { "PhoneNumber": "+525535380122", "IsoCountryCode": "MX"}
+
+80° Número '+525519514224': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525519514224"}'
+ { "PhoneNumber": "+525519514224", "IsoCountryCode": "MX"}
+
+81° Número '+528182545723': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+528182545723"}'
+ { "PhoneNumber": "+528182545723", "IsoCountryCode": "MX"}
+
+82° Número '+524611181420': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+524611181420"}'
+ { "PhoneNumber": "+524611181420", "IsoCountryCode": "MX"}
+
+83° Número '+525582091071': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525582091071"}'
+ { "PhoneNumber": "+525582091071", "IsoCountryCode": "MX"}
+
+84° Número '+527773694350': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+527773694350"}'
+ { "PhoneNumber": "+527773694350", "IsoCountryCode": "MX"}
+
+85° Número '+527773500968': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+527773500968"}'
+ { "PhoneNumber": "+527773500968", "IsoCountryCode": "MX"}
+
+86° Número '+525519956091': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525519956091"}'
+ { "PhoneNumber": "+525519956091", "IsoCountryCode": "MX"}
+
+87° Número '+523324962750': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+523324962750"}'
+ { "PhoneNumber": "+523324962750", "IsoCountryCode": "MX"}
+
+88° Número '+522225888140': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+522225888140"}'
+ { "PhoneNumber": "+522225888140", "IsoCountryCode": "MX"}
+
+89° Número '+525525881187': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525525881187"}'
+ { "PhoneNumber": "+525525881187", "IsoCountryCode": "MX"}
+
+90° Número '+527292807392': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+527292807392"}'
+ { "PhoneNumber": "+527292807392", "IsoCountryCode": "MX"}
+
+91° Número '+522227062545': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+522227062545"}'
+ { "PhoneNumber": "+522227062545", "IsoCountryCode": "MX"}
+
+92° Número '+523319242182': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+523319242182"}'
+ { "PhoneNumber": "+523319242182", "IsoCountryCode": "MX"}
+
+93° Número '+522299161288': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+522299161288"}'
+ { "PhoneNumber": "+522299161288", "IsoCountryCode": "MX"}
+
+94° Número '+527291007579': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+527291007579"}'
+ { "PhoneNumber": "+527291007579", "IsoCountryCode": "MX"}
+
+95° Número '+525567923598': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525567923598"}'
+ { "PhoneNumber": "+525567923598", "IsoCountryCode": "MX"}
+
+96° Número '+523141084321': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+523141084321"}'
+ { "PhoneNumber": "+523141084321", "IsoCountryCode": "MX"}
+
+97° Número '+525547232010': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525547232010"}'
+ { "PhoneNumber": "+525547232010", "IsoCountryCode": "MX"}
+
+98° Número '+525535381593': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525535381593"}'
+ { "PhoneNumber": "+525535381593", "IsoCountryCode": "MX"}
+
+99° Número '+525585316777': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525585316777"}'
+ { "PhoneNumber": "+525585316777", "IsoCountryCode": "MX"}
+
+100° Número '+528992861044': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+528992861044"}'
+ { "PhoneNumber": "+528992861044", "IsoCountryCode": "MX"}
+
+101° Número '+525513587228': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525513587228"}'
+ { "PhoneNumber": "+525513587228", "IsoCountryCode": "MX"}
+
+102° Número '+524776727494': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+524776727494"}'
+ { "PhoneNumber": "+524776727494", "IsoCountryCode": "MX"}
+
+103° Número '+525546140122': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525546140122"}'
+ { "PhoneNumber": "+525546140122", "IsoCountryCode": "MX"}
+
+104° Número '+525551438029': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525551438029"}'
+ { "PhoneNumber": "+525551438029", "IsoCountryCode": "MX"}
+
+105° Número '+522226152706': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+522226152706"}'
+ { "PhoneNumber": "+522226152706", "IsoCountryCode": "MX"}
+
+106° Número '+529982414217': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+529982414217"}'
+ { "PhoneNumber": "+529982414217", "IsoCountryCode": "MX"}
+
+107° Número '+525534240323': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525534240323"}'
+ { "PhoneNumber": "+525534240323", "IsoCountryCode": "MX"}
+
+108° Número '+525591414697': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525591414697"}'
+ { "PhoneNumber": "+525591414697", "IsoCountryCode": "MX"}
+
+109° Número '+525551018414': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525551018414"}'
+ { "PhoneNumber": "+525551018414", "IsoCountryCode": "MX"}
+
+110° Número '+525510192678': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": "+525510192678"}'
+ { "PhoneNumber": "+525510192678", "IsoCountryCode": "MX"}
+
+111° Número '': 
+aws pinpoint phone-number-validate --number-validate-request='{"IsoCountryCode":"MX", "PhoneNumber": ""}'
+ { "PhoneNumber": "", "IsoCountryCode": "MX"}
+
+
+Fin :)
